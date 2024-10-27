@@ -124,3 +124,19 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.side-by-side {
+    display: flex;
+    flex-direction: row;
+}
+
+.contact-info {
+    text-align: center;
+    justify-content: center;
+    color: #7F9DE2;
+    /* #92B8EF */
+}
+
+.contact-info h4 {
+    font-weight: bold;
+}
